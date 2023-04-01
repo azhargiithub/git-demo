@@ -9,6 +9,9 @@ public class App
 			System.out.println("Welcome");
 		}
 	}
+	public void addOneMethod(){
+		System.out.println("New method is added");
+	}
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
